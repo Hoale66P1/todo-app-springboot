@@ -1,20 +1,27 @@
 # To-Do List App (Spring Boot)
 
-Đây là dự án quản lý công việc đơn giản, được mình hoàn thành để thực hành Spring Boot.
+A simple, lightweight To-Do List application built with **Spring Boot**.
+This project was completed as a hands-on practice exercise to master the core concepts of Java Web development.
 
-## Công nghệ sử dụng
+## Technologies Used
 * **Backend:** Java 17, Spring Boot 3.x
 * **Frontend:** Thymeleaf, Bootstrap 5
 * **Database:** H2 Database (In-memory)
 * **Tools:** IntelliJ IDEA, Maven
 
-## Chức năng chính
-1.  Xem danh sách công việc.
-2.  Thêm công việc mới.
-3.  Xóa công việc đã hoàn thành.
+## Key Features
+1.  **View List:** Display all current tasks.
+2.  **Add Task:** Create a new task with a title.
+3.  **Delete Task:** Remove a task from the list.
 
-## Cách chạy dự án
-1.  Clone dự án về máy: `git clone https://github.com/Hoale66P1/todo-app-springboot.git`
-2.  Mở bằng IntelliJ IDEA.
-3.  Chạy file `Demo1Application.java`.
-4.  Truy cập: `http://localhost:8080`
+## How to Run
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/Hoale66P1/todo-app-springboot.git](https://github.com/Hoale66P1/todo-app-springboot.git)
+    ```
+2.  Open the project in **IntelliJ IDEA**.
+3.  Run the `Demo1Application.java` file.
+4.  Open your browser and navigate to: `http://localhost:8080`
+
+---
+*Created by Hoa Le*
