@@ -1,6 +1,6 @@
 # To-Do List App (Spring Boot)
 
-Đây là dự án quản lý công việc đơn giản, được mình hoàn thành trong vòng 24h để thực hành Spring Boot.
+Đây là dự án quản lý công việc đơn giản, được mình hoàn thành để thực hành Spring Boot.
 
 ## Công nghệ sử dụng
 * **Backend:** Java 17, Spring Boot 3.x
